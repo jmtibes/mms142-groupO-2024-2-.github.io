@@ -1,8 +1,13 @@
 # Site Settings
 name: BeyondBroadcast
 title: The impact of Netflix on the Traditional Televesion Industry
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: The television industry has long been observed as a cornerstone of entertainment and information dissemination since its emergence in the early 20th century. It began when experimental broadcasts in the 1920s evolved into a dominant medium by the mid-20th century (Media and Culture, n.d.), with families around the globe gathering in their living rooms to watch their favorite programs. This industry experienced a golden age in the 1950s due to the cost of TV sets dropping dramatically and making them accessible to a wider audience (Media and Culture, n.d.).
+
+Since the 1960s, the television industry has seen important technological developments, such as the Color television which gained popularity in the late 1960s, eventually replacing black-and-white television in the 1970s. Another is Cable television, which initially emerged in the 1940s serving rural communities (Tucker, 2022). This later expanded its reach to include national programming and a diversified range of channels. Finally, the switch from analog to digital television in 2009 enhanced picture quality and freed up broadcasting spectrum. By 2010, over half of American homes had high-definition televisions, offering a cinematic viewing experience (Media and Culture, n.d.).
+
+Despite its dominance, the traditional television industry now faces a new challenge as rapid advancements in Internet technology set the stage for a new era of content consumption. The challenger, Netflix, capitalized on these technological changes, introducing on-demand content that offered convenience and flexibility. Although Netflix began as a DVD rental service in 1997 (Netflix, n.d.), it has since grown to become a world leader in on-demand video streaming, radically changing the way people watch media. As a result, it has developed into a disruptive technology and becomes a serious threat to the established television industry.
+
+Observing this situation, we would like to delve into Netflix and discuss its disruptive influence on the traditional television industry. The scope of this report includes a detailed analysis of Netflix as a disruptive technology and their impact on consumer viewing habits, as well as the current situation and feedback of traditional television networks. Additionally, we will discuss the potential risks to media preservation posed by the digital-first approach of streaming platforms like Netflix. The study is limited to the examination of Netflix as a representative case of disruption, without delving into the financial metrics or operational specifics of competing streaming platforms. Through this report, we aim to provide a comprehensive understanding of how Netflix has revolutionized the television industry and what this shift means for the future of media consumption.
 tags:
   - blog
   - template

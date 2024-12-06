@@ -2,12 +2,11 @@
 date: 2024-12-07
 layout: post
 title: Understanding Disruptive Technologies
-subtitle: 'Subtopic 1.'
+subtitle: ' Understanding Disruptive Technologies
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Understanding Disruptive Technologies
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
